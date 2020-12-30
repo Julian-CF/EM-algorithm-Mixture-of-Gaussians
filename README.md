@@ -1,4 +1,4 @@
-# Unsupervised-learning-Mixture-of-Gaussians EM algorithm
+# Unsupervised-learning: Mixture-of-Gaussians EM algorithm
 This project:
 - (i) generates some data from a mixture of Gaussians (MoG) model, and 
 - (ii) subsequently fit a MoG model to the generated data, in order to recover the original parameters using the EM algorithm. A visualisation of the EM variational distribution fit to the data as well as the log likelihood for each iteration is also given to give a sense of how the updates are done. 
